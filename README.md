@@ -16,10 +16,14 @@
 
 ## Sample Output
 
-Enter the x-coordinate of the second point (x2): 4
+Enter the x-coordinate of the second point (x2): 4 
+
 Enter the x-coordinate of the first point (x1): 5
+
 Enter the y-coordinate of the second point (y2): 7
+
 Enter the y-coordinate of the first point (y1): 8
+
 the distance of two points is: 1.4142135623730951
 
 ## Author
